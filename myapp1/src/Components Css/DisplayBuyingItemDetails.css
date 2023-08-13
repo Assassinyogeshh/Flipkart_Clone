@@ -1,0 +1,488 @@
+
+.ByingProductDetails{
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    margin-left: 1.5rem;
+    margin: 1rem;
+  
+}
+.starIMG{
+    height: 1rem ;
+     width: 1rem ; 
+}
+.black_starIMG{
+    height: 1rem;
+     width: 1rem;
+    }
+
+h1{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.chosdItemRating{
+    justify-content: start;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    column-gap: 1rem;
+    align-items: center;
+}
+
+.chosdprdctrating{
+    background-color:rgb(46 110 46);
+    height: 21px;
+    width: 42px;
+    font-size: 14px;
+    font-weight: 200;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.chosdItemRatinReview{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 5px;
+}
+.chosdItemRatinReview p{
+    color: rgb(153 147 147);
+    font-size: 15px;
+    font-weight: 500;
+}
+.chosdItemRatinReview img{
+    height: 25px;
+    width: 5.5rem;
+}
+
+
+
+.chosedProductPrice_Offer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.4rem;
+}
+.grrenFontOffr{
+    color: green;
+    font-size: 17px;
+    font-weight: 400;
+}
+.currentPrice{
+    display: flex;
+    flex-direction: row;
+column-gap: 0.5rem;
+align-items: center;
+}
+
+#price_item{
+    font-size: 34px;
+    font-weight: 500;
+}
+
+.PrevisPrice{
+    font-size: 17px;
+  text-decoration: line-through;
+  font-weight: 100;
+}
+
+.availabeOffer{
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.4rem;
+}
+.availabeOffer h5{
+font-size: 17px;
+font-weight:600;
+}
+
+.BankOffer{
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+}
+
+.BankOffer img{
+    height: 1.3rem;
+}
+
+.BankOffer p{
+    font-size: 14px;
+    color: rgb(163, 158, 158);
+}
+
+.offerbank{
+    font-size: 15px;
+    font-weight: 400;
+    color: black;
+}
+
+.viewTotalProductRatings{
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.productRatingHeading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.rate{
+    margin-left: 31rem;
+    background-color: #dbd6d6;
+    height: 2rem;
+    width: 7rem;
+    border: none;
+    font-weight: 400;
+}
+
+.GivenRatingProducts{
+display: flex;
+flex-direction: row;
+column-gap: 2rem;
+border: 1px solid rgb(136, 132, 132);
+width: 22rem;
+justify-content: center;
+align-items: center;
+}
+
+@media screen and  (max-width: 414px){
+
+    .other_hiddenRating .largeFont{
+      font-size: 1rem;
+    }
+
+    .other_hiddenRating .largeFont img{
+            height: 9px !important;
+            width: 8px !important;
+        
+    }
+
+    .ByingProductDetails{
+        width: 66%;
+        /* background-color: aqua; */
+        margin-left: 3px;
+        margin: 0;
+        margin-left: 1px;
+        padding-top: 4px;
+    }
+    .ByingProductDetails h1{
+        font-size: 6px;
+    font-weight: 500;
+    width: 100%;
+    /* background-color: red; */
+    }
+    .chosdItemHeading{
+        width: 100%;
+    }
+    .chosdItemRating{
+        column-gap: 4px;
+        width: 100%;
+        }
+
+        .chosdprdctrating {
+            height: 12px;
+            width: 25px;
+            font-size: 8px;
+            font-weight: 500;
+            display: flex;
+            border-radius: 0px;
+            justify-content: center;
+            align-items: center;
+        }
+
+    .chosdItemRatinReview{
+        column-gap: 3px;
+    }
+    .chosdItemRatinReview p{
+        font-size: 7px;
+        font-weight: 600;
+    }
+    .chosdItemRatinReview img{
+        height: 14px;
+        width: 3rem;
+    }
+
+    .chosedProductPrice_Offer{
+        width: 100%;
+    }
+
+    .grrenFontOffr{
+        font-size: 7px;
+    }
+
+    .currentPrice{
+        column-gap: 7px;
+    }
+    #price_item{
+        font-size: 10px;
+        font-weight: 400;
+    }
+
+    .PrevisPrice{
+        font-size: 8px;
+        font-weight: 400;
+    }
+    .grrenFontOffr{
+        font-size: 7px;
+    }
+
+    .availabeOffer{
+        width: 100%;
+    }
+    .availabeOffer h5{
+        font-size: 9px;
+        font-weight: 600;
+    }
+
+    .BankOffer{
+        column-gap: 2px;
+    }
+    .BankOffer img{
+        height: 15px;
+    }
+    .BankOffer p{
+        font-size: 6px;
+        width: 170px;
+        font-weight: 500;
+    }
+
+    .offerbank{
+        font-size: 6px;
+        font-weight: 500;
+    }
+
+    .viewTotalProductRatings{
+        padding-left: 6px;
+        width: 80%;
+        row-gap: 1rem;
+    }
+
+
+    .productRatingHeading h1{
+        font-size: 8px;
+        font-weight: 500;
+        width: 6rem;
+    }
+    .rate{
+        margin-left: 2rem;
+        height: 12px;
+        width: 63px;
+        font-size: 6px;
+        }
+    .ContaininTwoSeprateRatings{
+        width: 21rem;
+        margin-bottom: 1rem;
+    }
+    .GivenRatingProducts{
+        width: 14rem;
+        column-gap: 1rem;
+    }
+   
+    .largeFont{
+        font-size: 11px;
+        font-weight: 400;
+    }
+    .grayrating{
+        font-weight: 400;
+        font-size: 8px;
+    }
+    .grayviews{
+        font-weight: 400;
+        font-size: 8px;
+    }
+
+    .HiddencustomerRatings{
+        font-size: 7px;
+        font-weight: 400;
+    }
+
+    
+    .ratingColor{
+        width: 4.1rem;
+        height: 3px;
+        border: 1px solid white;
+    }
+    
+    .greenRating{
+        width: 2.8rem;
+        height: 3px;
+    }
+    .greenRating2{
+        width: 4.1rem;
+        height: 3px;
+    }
+    .greenRating3{
+        width: 2.1rem;
+        height: 3px;
+    }
+    .yellowRating{
+        width: 1.1rem;
+        height: 3px;
+    }
+
+    .redRating{
+        width: 0.6rem;
+        height: 3px;
+    }
+    .starIMG{
+        height: 8px !important;
+        width: 10px !important;
+    }
+    .black_starIMG{
+        height: 8px !important;
+        width: 8px !important ; 
+        }
+}
+
+
+
+@media screen and (max-width:360px){
+    
+    .starIMG{
+        height: 7px !important;
+        width: 10px !important;
+    }
+    .other_hiddenRating .largeFont img {
+        height: 7px !important;
+        width: 7px !important;
+    }
+    .ByingProductDetails{
+        width: 51%;
+        /* background-color: aqua; */
+        margin-left: 3px;
+        margin: 0;
+        margin-left: 1px;
+        padding-top: 4px;
+    }
+    .chosdItemHeading {
+        width: 100%;
+    }
+    .ByingProductDetails h1 {
+        font-size: 5px;
+        font-weight: 500;
+        width: 99%;
+        /* background-color: red; */
+    }
+    .chosdItemRating {
+        column-gap: 4px;
+        width: 100%;
+    }
+    .chosdprdctrating {
+        height: 9px;
+        width: 20px;
+        font-size: 7px;
+        font-weight: 500;
+        border-radius: 0px;
+    }
+    .chosdItemRatinReview p {
+        font-size: 6px;
+        font-weight: 600;
+    }
+    .grrenFontOffr {
+        font-size: 6px;
+    }
+    #price_item {
+        font-size: 9px;
+        font-weight: 400;
+    }
+    .PrevisPrice {
+        font-size: 6px;
+        font-weight: 400;
+    }
+
+    .grrenFontOffr {
+        font-size: 6px;
+    }
+    .availabeOffer {
+        width: 100%;
+    }
+    .availabeOffer h5 {
+        font-size: 8px;
+        font-weight: 600;
+    }
+
+    .BankOffer img {
+        height: 15px;
+    }
+    .offerbank {
+        font-size: 5px;
+        font-weight: 500;
+    }
+    .BankOffer p {
+        font-size: 5px;
+        width: 163px;
+        font-weight: 500;
+    }
+    .viewTotalProductRatings {
+        padding-left: 6px;
+        width: 45%;
+        row-gap: 1rem;
+      
+    }
+    .productRatingHeading h1 {
+        font-size: 7px;
+        font-weight: 500;
+        width: 5rem;
+    
+    }
+    .rate {
+        margin-left: 2rem;
+        height: 12px;
+        width: 63px;
+        font-size: 6px;
+    }
+    .ContaininTwoSeprateRatings {
+        width: 19rem;
+        margin-bottom: 1rem;
+    }
+    .GivenRatingProducts {
+        width: 9rem;
+        column-gap: 1rem;
+    }
+    .largeFont {
+        font-size: 9px !important;
+        font-weight: 400 !important;
+    }
+    .grayrating {
+        font-weight: 400 !important;
+        font-size: 6px !important;
+    }
+    .grayviews {
+        font-weight: 400 !important;
+        font-size: 6px !important;
+    }
+    .HiddencustomerRatings {
+        font-size: 5px !important;
+        font-weight: 400 !important;
+    }
+    .ratingColor {
+        width: 3.1rem !important;
+        height: 2px !important;
+        border: 1px solid white;
+    }
+    .greenRating {
+        width: 2.8rem !important;
+        height: 2px !important;
+    }
+    .greenRating2 {
+        width: 2.1rem !important;
+        height: 2px !important;
+    }
+    .greenRating3 {
+        width: 1.1rem !important;
+        height: 2px !important;
+    }
+    .yellowRating {
+        width: 0.9rem !important;
+        height: 2px !important;
+    }
+    .redRating {
+        width: 0.2rem !important;
+        height: 2px !important;
+    }
+}

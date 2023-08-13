@@ -1,0 +1,25 @@
+@media screen and  (max-width: 768px) {
+
+.fashionDeals{
+    /* width: 5rem; */
+    margin: 113px -81rem 0 -54rem;
+  
+}
+
+}
+@media screen and  (max-width: 414px) {
+
+.fashionDeals{
+    margin: -15px -8rem 0px -46rem; 
+    /* padding-left:0 !important;  */
+}
+
+}
+@media screen and  (max-width: 360px) {
+
+.fashionDeals{
+    margin: -15px -8rem 0px -50rem;  
+    /* padding-left:0 !important; */
+}
+
+}

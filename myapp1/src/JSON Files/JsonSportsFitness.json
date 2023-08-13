@@ -1,0 +1,741 @@
+{
+  "CardSF": {
+    "PageHead": "Sports & Fitness Essentials",
+    "items": [
+      {
+        "ItemName": "Cycles",
+        "IMG": "./Json images/Fitness Images/cycle.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF1"   
+      },
+      {
+        "ItemName": "Gym Accessory",
+        "IMG": "./Json images/Fitness Images/Dumble.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF2"
+       
+      },
+      {
+        "ItemName": "Fishing Net",
+        "IMG": "./Json images/Fitness Images/Fishingnet.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF3"
+       
+      },
+      {
+        "ItemName": "FootBall",
+        "IMG": "./Json images/Fitness Images/Football.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF4"
+       
+      },
+      {
+        "ItemName": "Gym Accessory",
+        "IMG": "./Json images/Fitness Images/gym Acessory.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF5"
+       
+      },
+      {
+        "ItemName": "BaseBall",
+        "IMG": "./Json images/Fitness Images/ironBat.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF6"
+       
+      },
+      {
+        "ItemName": "Cycling Accessories",
+        "IMG": "./Json images/Fitness Images/cycleAssory.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF7"
+       
+      },
+      {
+        "ItemName": "ThrowBall",
+        "IMG": "./Json images/Fitness Images/throwball.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF8"
+       
+      },
+      {
+        "ItemName": "Sauna Suits",
+        "IMG": "./Json images/Fitness Images/sunaSuits.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF9"
+       
+      },
+      {
+        "ItemName": "Table Tennis",
+        "IMG": "./Json images/Fitness Images/TableTennis.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF10"
+       
+      },
+      {
+        "ItemName": "Yoga Mats",
+        "IMG": "./Json images/Fitness Images/yoga Mat.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF11"
+       
+      },
+      {
+        "ItemName": "SoftBall Gloves",
+        "IMG": "./Json images/Fitness Images/softBall gloves.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF12"
+       
+      },
+      {
+        "ItemName": "UV Protection",
+        "IMG": "./Json images/Fitness Images/uvProtection.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF13"
+       
+      },
+      {
+        "ItemName": "Riding Gloves",
+        "IMG": "./Json images/Fitness Images/riding Gloves.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF14"
+       
+      },
+      {
+        "ItemName": "Fishing Rod",
+        "IMG": "./Json images/Fitness Images/Fishising Rod.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF15"
+       
+      },
+      {
+        "ItemName": "Cricket Accessory",
+        "IMG": "./Json images/Fitness Images/cricketBat.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF16"
+       
+      },
+      {
+        "ItemName": "Cycling Accessory",
+        "IMG": "./Json images/Fitness Images/cycle.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF17"
+       
+      },
+      {
+        "ItemName": "Boxing Accessories",
+        "IMG": "./Json images/Fitness Images/boxinwomn.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF18"
+       
+      },
+      {
+        "ItemName": "Badminton",
+        "IMG": "./Json images/Fitness Images/Badminton.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF19"
+       
+      },
+      {
+        "ItemName": "Punching Bag",
+        "IMG": "./Json images/Fitness Images/PunchingBags.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "SF20"
+       
+      }
+    ]
+  },
+  "CardEF": {
+    "PageHead": "Best of Electronics",
+    "items": [
+      {
+        "ItemName": "Atomberg Fans",
+        "IMG": "./Json images/Electronic images/atomberg fans.webp",
+        "Green": "From ₹2,599",
+        "Gray": "BLDC Fans",
+        "ItemId": "EF1"
+        
+      },
+      {
+        "ItemName": "Best of Massagers",
+        "IMG": "./Json images/Electronic images/best of massagers.webp",
+        "Green": "Up to 80% Off",
+        "ItemId": "EF2"
+        
+      },
+      {
+        "ItemName": "Best Deals on Powerbanks",
+        "IMG": "./Json images/Electronic images/bestdealonpowerbank.webp",
+        "Green": "From ₹499",
+        "Gray": "Ambrane, Syska, Mi & more",
+        "ItemId": "EF3"
+        
+      },
+      {
+        "ItemName": "Best of Vaporizers",
+        "IMG": "./Json images/Electronic images/bestOf vapourizers.webp",
+        "Green": "From ₹999",
+        "Gray": "Dr.Trust, Dr.Morepen & more",
+        "ItemId": "EF4"
+        
+      },
+      {
+        "ItemName": "Best of Epilators",
+        "IMG": "./Json images/Electronic images/bestofepilators.webp",
+        "Green": "Up to 45% Off",
+        "ItemId": "EF5"
+        
+      },
+      {
+        "ItemName": "Body Fat Analyzer",
+        "IMG": "./Json images/Electronic images/body fat analyzer.webp",
+        "Green": "From ₹1,999",
+        "Gray": "Dr.Trust, Omron & more",
+        "ItemId": "EF6"
+        
+      },
+      {
+        "ItemName": "Designer Cases & Covers",
+        "IMG": "./Json images/Electronic images/disigners and cavers.webp",
+        "Green": "From ₹149",
+        "Gray": "For Top Models",
+        "ItemId": "EF7"
+        
+      },
+      {
+        "ItemName": "Firebolt Hurricane 1.3 Curved Display",
+        "IMG": "./Json images/Electronic images/fireBolt hurricane1.3 curved glass.webp",
+        "Green": "Up to 75% Off",
+        "ItemId": "EF8"
+        
+      },
+      {
+        "ItemName": "Firebolt Hulk",
+        "IMG": "./Json images/Electronic images/firebolthulk.webp",
+        "Green": "Min 75% Off",
+        "Gray": "1.78' AMOLED Calling",
+        "ItemId": "EF9"
+        
+      },
+      {
+        "ItemName": "Gaming Laptop",
+        "IMG": "./Json images/Electronic images/gaming laptops.webp",
+        "Green": "From ₹44,990",
+        "Gray": "Extra Up to ₹8,000 Off",
+        "ItemId": "EF10"
+        
+      },
+      {
+        "ItemName": "Printers",
+        "IMG": "./Json images/Electronic images/printers.webp",
+        "Green": "From ₹399",
+        "Gray": "Buy Five Get 10% Extra Off",
+        "ItemId": "EF11"
+        
+      },
+      {
+        "ItemName": "Smart Watches",
+        "IMG": "./Json images/Electronic images/smart watches.webp",
+        "Green": "Min. 40% Off",
+        "ItemId": "EF12"
+        
+      },
+      {
+        "ItemName": "Top Electric Kettles",
+        "IMG": "./Json images/Electronic images/top electric kettels.webp",
+        "Green": "Up to 70% Off",
+        "Gray": "Top Brand",
+        "ItemId": "EF13"
+        
+      },
+      {
+        "ItemName": "Top Mirrorless Cameras",
+        "IMG": "./Json images/Electronic images/top mirrorless camera.webp",
+        "Green": "Shop Now",
+        "Gray": "Canon, Sony",
+        "ItemId": "EF14"
+        
+      },
+      {
+        "ItemName": "Top Selling Smart Televisions",
+        "IMG": "./Json images/Electronic images/top selling smart tellivison.webp",
+        "Green": "From ₹5499",
+        "Gray": "FHD, UHD, UHD, QLED TVs",
+        "ItemId": "EF15"
+        
+      },
+      {
+        "ItemName": "Top Rated Trimmers",
+        "IMG": "./Json images/Electronic images/topratedtrimmers.webp",
+        "Green": "From ₹199",
+        "Gray": "Philips, Mi & more",
+        "ItemId": "EF16"
+        
+      },
+      {
+        "ItemName": "Top Selling Power Banks",
+        "IMG": "./Json images/Electronic images/topsellingpowerbanks.webp",
+        "Green": "From ₹49",
+        "Gray": "Ambrane, Mi & more",
+        "ItemId": "EF17"
+        
+      },
+      {
+        "ItemName": "Top Wireless Earphones",
+        "IMG": "./Json images/Electronic images/trueWirelessearphones.webp",
+        "Green": "Min. 50% Off",
+        "ItemId": "EF18"
+        
+      },
+      {
+        "ItemName": "Gaming PC",
+        "IMG": "./Json images/Electronic images/gaming laptops.webp",
+        "Green": "From ₹44,990",
+        "Gray": "Extra Up to ₹8,000 Off",
+        "ItemId": "EF19"
+        
+      },
+      {
+        "ItemName": "Routers",
+        "IMG": "./Json images/Electronic images/Router.webp",
+        "Green": "From ₹839",
+        "Gray": "D-Link, TP-Link, Netgear...",
+        "ItemId": "EF20"
+        
+      }
+    ]
+  },
+  "CardFE": {
+    "PageHead": "Fashion Essentials",
+    "items": [
+      {
+        "ItemName": "Best selling Styles",
+        "IMG": "./Json images/Fashion images/download (18).jpg",
+        "Green": "Min. 40% Off",
+        "Gray": "Woodland,U.S. Polo",
+        "ItemId": "FE1"
+      },
+      {
+        "ItemName": "Bra, Tops, Dresses",
+        "IMG": "./Json images/Fashion images/download (15).jpg",
+        "Green": "From ₹99",
+        "Gray": "Sassafras, Clovia, Only & More",
+        "ItemId": "FE2"
+      },
+      {
+        "ItemName": "Lehenga Cholis & Gowns",
+        "IMG": "./Json images/Fashion images/download (14).jpg",
+        "Green": "Buy 3, Get 10% off",
+        "Gray": "Buy 2, Get 5% Off",
+        "ItemId": "FE3"
+      },
+      {
+        "ItemName": "Palazzos",
+        "IMG": "./Json images/Fashion images/download (11).jpg",
+        "Green": "From ₹199",
+        "Gray": "Shopping Shuru?",
+        "ItemId": "FE4"
+      },
+      {
+        "ItemName": "Tops, Dresses, Jeans...",
+        "IMG": "./Json images/Fashion images/download (17).jpg",
+        "Green": "Min. 60% Off",
+        "Gray": "AND, Sassafras,Killer...",
+        "ItemId": "FE5"
+      },
+      {
+        "ItemName": "Lavie, Caprese,Allen Solly...",
+        "IMG": "./Json images/Fashion images/download (12).jpg",
+        "Green": "40%-70% Off",
+        "Gray": "Grab the Deal Now!",
+        "ItemId": "FE6"
+      },
+      {
+        "ItemName": "Kurtas, Sets & mmore",
+        "IMG": "./Json images/Fashion images/download (16).jpg",
+        "Green": "Up to 70% off",
+        "Gray": "Rangmanch, Melange & more..",
+        "ItemId": "FE7"
+      },
+      {
+        "ItemName": "Fashion Jewellery",
+        "IMG": "./Json images/Fashion images/download (13).jpg",
+        "Green": "From ₹99",
+        "Gray": "Best Deals",
+        "ItemId": "FE8"
+      },
+      {
+        "ItemName": "Kid' Clothing ",
+        "IMG": "./Json images/Fashion images/download (10).jpg",
+        "Green": "Min. 60% Off",
+        "Gray": "US Polo, Provogue & more",
+        "ItemId": "FE9"
+      },
+      {
+        "ItemName": "Sweatshirts, Hoodies, Jackets...",
+        "IMG": "./Json images/Fashion images/download (6).jpg",
+        "Green": "From ₹299",
+        "Gray": "Wildcraft, Fort Collins...",
+        "ItemId": "FE10"
+      },
+      {
+        "ItemName": "Safari, Wildcraft,Aristocrat...",
+        "IMG": "./Json images/Fashion images/download (19).jpg",
+        "Green": "Min 65% Off",
+        "Gray": "Cool Backpacks",
+        "ItemId": "FE11"
+      },
+      {
+        "ItemName": "Nivia, Can Heusen Flex..",
+        "IMG": "./Json images/Fashion images/download (5).jpg",
+        "Green": "Upto 60% Off",
+        "Gray": "Trackpants, Shorts",
+        "ItemId": "FE12"
+      },
+      {
+        "ItemName": "Jewellery",
+        "IMG": "./Json images/Fashion images/download (1).jpg",
+        "Green": "Under ₹799",
+        "Gray": "Grab Now",
+        "ItemId": "FE13"
+      },
+      {
+        "ItemName": "Dresses, Tops, Jeans",
+        "IMG": "./Json images/Fashion images/download (8).jpg",
+        "Green": "Min 60% Off",
+        "Gray": "Dressberry, Vero Moda,Levi's",
+        "ItemId": "FE14"
+      },
+      {
+        "ItemName": "Ketch, Mast & Harbour..",
+        "IMG": "./Json images/Fashion images/download (4).jpg",
+        "Green": "From ₹399",
+        "Gray": "Shirts, Trousers",
+        "ItemId": "FE15"
+      },
+      {
+        "ItemName": "Anmi, Divastri & more",
+        "IMG": "./Json images/Fashion images/download (7).jpg",
+        "Green": " 60-90% Off",
+        "Gray": "Kurta, Sarees & more",
+        "ItemId": "FE16"
+      },
+      {
+        "ItemName": "Trendy Kurtas, Sets & more",
+        "IMG": "./Json images/Fashion images/download.jpg",
+        "Green": "Min 75% Off",
+        "Gray": "Libas",
+        "ItemId": "FE17"
+      },
+      {
+        "ItemName": "Being Human, Ruf & Tuf, Lee..",
+        "IMG": "./Json images/Fashion images/download (2).jpg",
+        "Green": "Min. 50% Off",
+        "Gray": "T-Shirts, Jeans",
+        "ItemId": "FE18"
+      },
+      {
+        "ItemName": "Max & Rangmanch",
+        "IMG": "./Json images/Fashion images/download (3).jpg",
+        "Green": "Under ₹499",
+        "Gray": "Kurtas & Kurtis",
+        "ItemId": "FE19"
+      },
+      {
+        "ItemName": "Jewellery",
+        "IMG": "./Json images/Fashion images/download (1).jpg",
+        "Green": "Under ₹799",
+        "Gray": "Grab Now",
+        "ItemId": "FE20"
+      }
+    ]
+  },
+  "CardGB": {
+    "PageHead": "Grooming Books & Essentials",
+    "items": [
+      {
+        "ItemName": "Tyres",
+        "IMG": "./Json images/Grooming images/download.jpg",
+        "Green": "From 799",
+        "Gray": "Apollo, Bridgestone,Ceat and",
+        "ItemId": "GB1"
+      },
+      {
+        "ItemName": "Treadmill, Exercise Bikes & More",
+        "IMG": "./Json images/Grooming images/download (1).jpg",
+        "Green": "Up to 70% Off",
+        "Gray": "Fitkit,Powermax & More",
+        "ItemId": "GB2"
+      },
+      {
+        "ItemName": "String Instruments",
+        "IMG": "./Json images/Grooming images/download (2).jpg",
+        "Green": "Up to 70% Off",
+        "Gray": "Guitors,Ukuleles & More",
+        "ItemId": "GB3"
+      },
+      {
+        "ItemName": "Remote Control Toys",
+        "IMG": "./Json images/Grooming images/download (3).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Buy Now",
+        "ItemId": "GB4"
+      },
+      {
+        "ItemName": "Gym Essentials",
+        "IMG": "./Json images/Grooming images/download (4).jpg",
+        "Green": "From ₹139",
+        "Gray": "Shop Now",
+        "ItemId": "GB5"
+      },
+      {
+        "ItemName": "Tricycles & Rideons",
+        "IMG": "./Json images/Grooming images/download (5).jpg",
+        "Green": "Upto 70% Off",
+        "Gray": "Figurines,Battle Toys & more",
+        "ItemId": "GB6"
+      },
+      {
+        "ItemName": "Non-Geared Cycles",
+        "IMG": "./Json images/Grooming images/download (6).jpg",
+        "Green": "Up to 40% Off",
+        "Gray": "Hercules, Hero,& More",
+        "ItemId": "GB7"
+      },
+      {
+        "ItemName": "Breakfast Cereal",
+        "IMG": "./Json images/Grooming images/download (7).jpg",
+        "Green": "Upto 75% Off",
+        "Gray": "Oats, Muesli & More",
+        "ItemId": "GB8"
+      },
+      {
+        "ItemName": "Faction Books",
+        "IMG": "./Json images/Grooming images/download (8).jpg",
+        "Green": "Upt 70% Off",
+        "Gray": "Shop Now",
+        "ItemId": "GB9"
+      },
+      {
+        "ItemName": "Cleaners & Detergents",
+        "IMG": "./Json images/Grooming images/download (9).jpg",
+        "Green": "Under ₹499",
+        "Gray": "Luvlap, MeeMee & More",
+        "ItemId": "GB10"
+      },
+      {
+        "ItemName": "Dry Fruits",
+        "IMG": "./Json images/Grooming images/download (10).jpg",
+        "Green": "Upto 75% Off",
+        "Gray": "Happilo,Farmley & More",
+        "ItemId": "GB11"
+      },
+      {
+        "ItemName": "Honey",
+        "IMG": "./Json images/Grooming images/download (11).jpg",
+        "Green": "Upto 75% Off",
+        "Gray": "Saffola,Dabur & More",
+        "ItemId": "GB12"
+      },
+      {
+        "ItemName": "Rider Helmet",
+        "IMG": "./Json images/Grooming images/download (12).jpg",
+        "Green": "From ₹699",
+        "Gray": "Vega, SteelBird, Hrx,& More",
+        "ItemId": "GB13"
+      },
+      {
+        "ItemName": "Musical Keboards",
+        "IMG": "./Json images/Grooming images/download (13).jpg",
+        "Green": "Upto 70% Off",
+        "Gray": "Beston & More",
+        "ItemId": "GB14"
+      },
+      {
+        "ItemName": "Musical Toys",
+        "IMG": "./Json images/Grooming images/download (14).jpg",
+        "Green": "Under 199",
+        "Gray": "Top-Selling Toys",
+        "ItemId": "GB15"
+      },
+      {
+        "ItemName": "Puzzles & Cubes",
+        "IMG": "./Json images/Grooming images/download (15).jpg",
+        "Green": "From ₹79",
+        "Gray": "Unmissable Offers!",
+        "ItemId": "GB16"
+      },
+      {
+        "ItemName": "Top Selling Stationery",
+        "IMG": "./Json images/Grooming images/download (16).jpg",
+        "Green": "From ₹49",
+        "Gray": "Pens, Notebooks & more",
+        "ItemId": "GB17"
+      },
+      {
+        "ItemName": "Baby Care Essentials",
+        "IMG": "./Json images/Grooming images/download (17).jpg",
+        "Green": "From ₹699",
+        "Gray": "Baby Soaps, Shampoos & More",
+        "ItemId": "GB18"
+      },
+      {
+        "ItemName": "Musical Toys",
+        "IMG": "./Json images/Grooming images/download (18).jpg",
+        "Green": "Under 199",
+        "Gray": "Top-Selling Toys",
+        "ItemId": "GB15"
+      },
+      {
+        "ItemName": "Food Spreads",
+        "IMG": "./Json images/Grooming images/download (19).jpg",
+        "Green": "Upto 75% Off",
+        "Gray": "Myfiness,Alpino & More",
+        "ItemId": "GB20"
+      }
+    ]
+  },
+  "CardHK": {
+    "PageHead": "Grooming Books & Essentials",
+    "items": [
+      {
+        "ItemName": "Decor Lightings",
+        "IMG": "./Json images/Homkitchen images/download (7).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK1"
+      },
+      {
+        "ItemName": "Power and Hand Tool Kit",
+        "IMG": "./Json images/Homkitchen images/download (8).jpg",
+        "Green": "From ₹399",
+        "Gray": "Best Selling",
+        "ItemId": "HK2"
+      },
+      {
+        "ItemName": "Clocks",
+        "IMG": "./Json images/Homkitchen images/download (9).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK3"
+      },
+      {
+        "ItemName": "Wall Decor Items",
+        "IMG": "./Json images/Homkitchen images/download.jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK4"
+      },
+      {
+        "ItemName": "Showpieces",
+        "IMG": "./Json images/Homkitchen images/download (3).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK5"
+      },
+      {
+        "ItemName": "Live Plants",
+        "IMG": "./Json images/Homkitchen images/download (12).jpg",
+        "Green": "From ₹199",
+        "Gray": "Best Selling",
+        "ItemId": "HK6"
+      },
+      {
+        "ItemName": "Emergency Lights",
+        "IMG": "./Json images/Homkitchen images/download (18).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK7"
+      },
+      {
+        "ItemName": "Paintings",
+        "IMG": "./Json images/Homkitchen images/download (5).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK8"
+      },
+      {
+        "ItemName": "Artificial Plants",
+        "IMG": "./Json images/Homkitchen images/download (14).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK9"
+      },
+      {
+        "ItemName": "Diyas, Candles & Holders",
+        "IMG": "./Json images/Homkitchen images/download (1).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK10"
+      },
+      {
+        "ItemName": "Spiritual Items",
+        "IMG": "./Json images/Homkitchen images/download (4).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK11"
+      },
+      {
+        "ItemName": "Stickers & Wallpapers",
+        "IMG": "./Json images/Homkitchen images/download (16).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK12"
+      },
+      {
+        "ItemName": "Vases",
+        "IMG": "./Json images/Homkitchen images/download (10).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK13"
+      },
+      {
+        "ItemName": "Mattress Protectors",
+        "IMG": "./Json images/Homkitchen images/download (1).jpg",
+        "Green": "From ₹149",
+        "Gray": "Best Offers",
+        "ItemId": "HK14"
+      },
+      {
+        "ItemName": "Appliance Covers",
+        "IMG": "./Json images/Homkitchen images/download (2).jpg",
+        "Green": "From ₹69",
+        "Gray": "Best Selling Range",
+        "ItemId": "HK15"
+      },
+      {
+        "ItemName": "Table Linen Sets",
+        "IMG": "./Json images/Homkitchen images/download (17).jpg",
+        "Green": "From ₹99",
+        "Gray": "Best Selling Range",
+        "ItemId": "HK16"
+      },
+      {
+        "ItemName": "Festive Gifts",
+        "IMG": "./Json images/Homkitchen images/download (6).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK17"
+      },
+      {
+        "ItemName": "Artificial Flowers",
+        "IMG": "./Json images/Homkitchen images/download (15).jpg",
+        "Green": "Up to 80% Off",
+        "Gray": "Big Discounts",
+        "ItemId": "HK18"
+      },
+      {
+        "ItemName": "Paint Rollers",
+        "IMG": "./Json images/Homkitchen images/download200.jpg",
+        "Green": "From ₹129",
+        "Gray": "Best Selling",
+        "ItemId": "HK19"
+      },
+      {
+        "ItemName": "Measuring Tapes and Levels",
+        "IMG": "./Json images/Homkitchen images/download (20).jpg",
+        "Green": "From ₹99",
+        "Gray": "Bosch and more",
+        "ItemId": "HK20"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+
+.allitems{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 1rem;
+    background-color: white;
+}
+
+#first_item_container{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    column-gap: 3rem;
+
+}
+
+.items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: black;
+}
+
+.itemName{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.items img{
+    height: 64px;
+    width: 64px;
+}
+
+.HiddenLists{
+    display: none;
+    margin: -5rem 0 0 -25rem;
+    position: absolute;
+    z-index: 5;
+}
+
+.HiddenLists2{
+    display: none;
+    margin: -5rem 0 0 -35rem;
+    position: absolute;
+    z-index: 5;
+}
+
+
+@media screen and  (max-width: 768px) {
+  
+.allitems{
+ height: 5.9rem;
+}
+
+#first_item_container{
+  padding-top: 2rem;
+  overflow: hidden;
+
+  padding-left: 1rem;
+
+}
+
+.items{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.items img{
+  height: 40px;
+  width: 47px;
+}
+
+.itemName{
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.HiddenLists{
+  display: none;
+  
+}
+
+.HiddenLists2{
+  display: none;
+  
+}
+}
+
+@media screen and  (max-width: 414px) {
+  
+
+  .HiddenLists{
+    display: none !important;
+  }
+
+  .HiddenLists2{
+    display: none !important;
+  }
+
+.allitems{
+  height: 2.9rem;
+
+}
+
+#first_item_container{
+  padding-top: 0rem;
+  padding-left: 0rem;
+  column-gap: 9px;
+
+}
+
+
+
+.items img{
+  height: 30px;
+  width: 31px;
+}
+
+.itemName{
+  font-size: 4px;
+  font-weight: 400;
+}
+
+.itemName img{
+ 
+  display: none;
+}
+
+.HiddenLists{
+  display: none;
+  
+}
+
+.HiddenLists2{
+  display: none;
+  
+}
+}
+
+@media screen and (max-width:360px){
+ .allitems{
+  width: 100%;
+ }
+}

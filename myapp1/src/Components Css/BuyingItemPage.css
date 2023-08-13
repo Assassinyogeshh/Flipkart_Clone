@@ -1,0 +1,22 @@
+.ChossedProductDetails{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+
+@media screen and  (max-width: 414px){
+    .ChossedProductDetails{
+        width: 100%;
+        /* background-color: chartreuse; */
+    }
+        .ChossedProductDetails2{
+        width: 300px;
+    }
+}
+
+
+@media screen and  (max-width:360px){
+    .ChossedProductDetails{
+        width: 100%;
+    }
+}

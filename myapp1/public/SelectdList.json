@@ -1,0 +1,84 @@
+{
+  "EF1": {
+    "id1":"EF1",
+    "PageHead": "Best of Electronics",
+    "id": 0,
+    "imagePaths": [
+      "./Selected-ElectronicLists-IMG/Trimmer1.webp",
+      "./Selected-ElectronicLists-IMG/Trimmer2.webp",
+      "./Selected-ElectronicLists-IMG/Trimmer3.webp",
+      "./Selected-ElectronicLists-IMG/Trimmer4.webp"
+    ],
+    "num": 1,
+    "name": "Dr.Morepen BG-03 glucometer with 50 strips Glucometer",
+    "rating": "4.2*",
+    "ratingsCount": " 716 Ratings &",
+    "reviewsCount": " 28 Reviews  ",
+    "customerRatings": [
+      {
+        "rating": 5,
+        "count": 123
+      },
+      {
+        "rating": 4,
+        "count": 21
+      },
+      {
+        "rating": 3,
+        "count": 12
+      },
+      {
+        "rating": 2,
+        "count": 2
+      },
+      {
+        "rating": 1,
+        "count": 1
+      }
+    ],
+    "price": 799,
+    "oldPrice": 945,
+    "offer": "15% off"
+  },
+
+
+  "EF2": {
+    "id": 1,
+    "imagePaths": [
+      "./Selected-ElectronicLists-IMG/Trimmer1.webp",
+      "./Selected-ElectronicLists-IMG/Trimmer2.webp",
+      "./Selected-ElectronicLists-IMG/Trimmer3.webp",
+      "./Selected-ElectronicLists-IMG/Trimmer4.webp"
+    ],
+    "num": 2,
+    "name": "Dr.Morepen BG-03 glucometer with 50 strips Glucometer",
+    "rating": "4.2*",
+    "ratingsCount": " 716 Ratings &",
+    "reviewsCount": " 28 Reviews  ",
+    "customerRatings": [
+      {
+        "rating": 5,
+        "count": 123
+      },
+      {
+        "rating": 4,
+        "count": 21
+      },
+      {
+        "rating": 3,
+        "count": 12
+      },
+      {
+        "rating": 2,
+        "count": 2
+      },
+      {
+        "rating": 1,
+        "count": 1
+      }
+    ],
+    "price": 799,
+    "oldPrice": 945,
+    "offer": "15% off"
+  }
+}

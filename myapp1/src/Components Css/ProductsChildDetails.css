@@ -1,0 +1,105 @@
+.Parent_items{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    /* margin-left: 5rem; */
+    height: 35rem;
+    /* background-color: blueviolet; */
+    width: 19vw;
+    position: absolute;
+    z-index: 5;
+    justify-content: space-between;
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 0, 0.5);}
+
+
+
+.flipkart_items{
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    /* row-gap: 9px; */
+    margin: auto;
+    margin-left: 15px;
+    font-size: 15px;
+    justify-content: center;
+    height: 100%;
+    width: 85%;
+    width: 16rem;
+    /* transition: all 0.5s ease-in-out; */
+}
+
+
+
+
+.itemChid{
+    display: flex;
+    flex-direction: row;
+ cursor: pointer;
+    justify-content: space-between;
+    height: 3.2rem;
+    align-items: center;
+    transition: all 0.1s ease-in-out;
+
+}
+
+
+.itemChid span{
+
+    /* background-color: aqua; */
+    height: 13px;
+    width: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    color: black;
+}
+
+.itemChid span img{
+    /* display: none; */
+transform: rotate(90deg);
+    height: 100%;
+}
+
+.itemChid:hover{
+    color: blue;
+background: #fff;
+
+}
+
+
+
+.hidden_Child{
+    /* background-color: blueviolet; */
+    margin-top: 5rem;
+    display: none;
+    flex-direction: column;
+    margin-left: 16rem;
+    height: 35rem;
+    background-color: white;
+    width: 21vw;
+    position: absolute;
+    z-index: 5;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 2;
+    padding-left: 29px;
+}
+
+.ItemLists{
+    display: flex;
+    flex-direction: row;
+ cursor: pointer;
+    justify-content: space-between;
+    height: 2.5rem;
+    align-items: center;
+    transition: all 0.5s ease-in-out;
+
+}
+
+.grayTag{
+    color: gray;
+}
+
+
